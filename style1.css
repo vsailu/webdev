@@ -1,0 +1,21 @@
+.design{
+	background-color: orange;
+	background-size: 50px;
+	font-size: 40px;
+	font-style: italic;
+	color: red;
+}
+
+.description { 
+	color:red;
+	font-size: 30px;
+	max-width: 750px;
+}
+
+
+*{
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
